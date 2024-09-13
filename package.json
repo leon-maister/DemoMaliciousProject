@@ -1,0 +1,42 @@
+{
+  "name": "Available Malicious Packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "This list is automatically created by Checkmarx"
+  },
+  "author": "Leon Maister",
+  "dependencies": {
+    "logoss": "*",
+    "drakenkundrakenkun": "*",
+    "neishahd": "*",
+    "sc-questions-frontend-commons": "*",
+    "basecontext": "*",
+    "pring-payment-demo-backend": "*",
+    "expense-management": "*",
+    "wdpr-ra-javascript-native-bridge": "*",
+    "stylehome": "*",
+    "poc_drakenkun": "*",
+    "vuepress-plugin-gitlabment": "*",
+    "rif-wallet-services": "*",
+    "kakrossbejer": "*",
+    "neishaiahd": "*",
+    "neishaihd": "*",
+    "skibidisigma": "*",
+    "@devstack-angular/jdai": "*",
+    "sparemanager": "*",
+    "gugugaga": "*",
+    "neshaiahd": "*",
+    "com.google.ads.mobile": "*",
+    "crypenv": "*",
+    "cryprenv": "*",
+    "cryptenv": "*",
+    "epic-ue-saleforce-form": "*",
+    "waaromwordtikcontinuegeratelimit2": "*",
+    "cap-frontend": "*",
+    "entrevista_devops": "*",
+    "mediamelon-reactnative-video": "*"
+  },
+  "license": "ISC"
+}
