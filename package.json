@@ -1,5 +1,5 @@
 {
-  "name": "Available Malicious Packages",
+  "name": "availablemaliciouspackages",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,16 @@
   },
   "author": "Leon Maister",
   "dependencies": {
+    "paddle-subscription": "*",
+    "deeperscan-nft": "*",
+    "stedi-integrations": "*",
+    "houdini_test_pack_1": "*",
+    "events_pkg": "*",
+    "boxiconssx": "*",
+    "boxiconsxx": "*",
+    "dexopener": "*",
+    "mfp-config-xml": "*",
+    "ibm-strings": "*",
     "logoss": "*",
     "drakenkundrakenkun": "*",
     "neishahd": "*",
@@ -33,10 +43,7 @@
     "cryprenv": "*",
     "cryptenv": "*",
     "epic-ue-saleforce-form": "*",
-    "waaromwordtikcontinuegeratelimit2": "*",
-    "cap-frontend": "*",
-    "entrevista_devops": "*",
-    "mediamelon-reactnative-video": "*"
+    "waaromwordtikcontinuegeratelimit2": "*"
   },
   "license": "ISC"
 }
