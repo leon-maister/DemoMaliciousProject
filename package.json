@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "This list is automatically created by Checkmarx Debug"
+    "test": "This list is automatically created by Checkmarx"
   },
   "author": "Leon Maister",
   "dependencies": {
@@ -80,7 +80,6 @@
     "team-plain": "*",
     "allonzydoctor": "*",
     "dealer-portal": "*",
-    "afritonpy1": "*",
     "oss-feature-flags": "*",
     "nodepaysafesdk": "*",
     "cfc-i18n": "*",
