@@ -1,1 +1,2 @@
-afritonpy1 == *
+ultralytics == *
+chsu_schedule_api == *
